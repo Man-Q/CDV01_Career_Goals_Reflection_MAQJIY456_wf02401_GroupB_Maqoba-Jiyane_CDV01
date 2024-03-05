@@ -17,15 +17,16 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Personal Information
 
 - **Name:** Maqoba Jiyane
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Date:** 05/03/2024
+- **Current Role/Position:** Software Engineer Student
+- **Field of Interest:** Backend Engineer
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+        --Java EE
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
     
