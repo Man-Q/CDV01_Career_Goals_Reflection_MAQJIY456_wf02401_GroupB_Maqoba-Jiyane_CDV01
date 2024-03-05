@@ -78,28 +78,49 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Reflect on how these industries/roles align with your skills, interests, and values.
         - I want to learn Full-Stack Development as I am planning to have an IT company that employs and deals with company IT related issue. And as such, I figured that knowing how to develop the whole project will give me an edge in guiding my team.
     - Identify any gaps or areas for further exploration.
+        - I still need to learn the frameworks required in development and also the server side of the code.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+        1. Get employed as developer.
+        2. Get experience in my role.
+        3. Be an Oracle Certified Professional.
     - Explain the rationale behind each goal.
+        1. Getting employed will help me provide for my family, as currently the stippend is what sustains us.
+        2. The experience will help me be proficient in my role.
+        3. Being cerfied will mean more recognition and money.
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+        1. Acquire cloud based certificates so as to become a Software Architect.
     - Describe how these align with your interests and skills.
+        1. Acquiring cloud based certs, specifically Software Architect certificates will allow me to transition from being a developer focused soley on coding solutions which I've been told to code, to advising companies on how to solve whatever software related issue they might be facing. And this will help me then move from being an employee to being an employer.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+        - Follow the advice given on community Fridays
+        - Make sure my socials are up to date and attractive.
+        - Keep on improving developer skills and personal skills
     - Include any resources or support required.
+        - Career Mentoring
+        - Udemy for skills update
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+        - I will need to be a harworking employee, while also showing leadership skills, those being:
+            - Being the first one in and last one out.
+            - Delivering tasks ahead of time.
+            - Taking the initiative in indentifying what the company needs, should there be anything.
+            - Availing myself to those who would need help, and making sure that Juniors or new team members feel welcomed.
     - Consider additional skills, experiences, or qualifications needed.
+        - Leadership skills
+        - Business Management skills.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
