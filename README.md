@@ -136,6 +136,7 @@ By completing this reflection, you will gain a clearer understanding of your car
         - Connecting with hiring managers and CEOs.
         - Developing and showcasing my work on Linkedin.
     - Include networking, mentorship, or educational opportunities.
+        - Get in touch with people already working on certain companies and find out how I can get in.
 
 ### Submission
 
