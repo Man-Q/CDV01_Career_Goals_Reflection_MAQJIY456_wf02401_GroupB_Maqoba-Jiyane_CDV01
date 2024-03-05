@@ -16,7 +16,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
+- **Name:** Maqoba Jiyane
 - **Date:**
 - **Current Role/Position:**
 - **Field of Interest:**
