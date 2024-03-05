@@ -26,7 +26,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
-        --Java EE
+        1. Java EE
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
     
