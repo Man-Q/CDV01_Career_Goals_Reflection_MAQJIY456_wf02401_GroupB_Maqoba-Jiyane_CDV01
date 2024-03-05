@@ -127,10 +127,14 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+        - Getting employment as a Junior Developer might be a challenge as there is a lot of us. And some have higher education which I do not posses.
     - Consider strategies to overcome these challenges.
+        - I will need to be the best. The best at what compnies require most. I will need to put in a lot more developer time.
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
+        - Connecting with hiring managers and CEOs.
+        - Developing and showcasing my work on Linkedin.
     - Include networking, mentorship, or educational opportunities.
 
 ### Submission
