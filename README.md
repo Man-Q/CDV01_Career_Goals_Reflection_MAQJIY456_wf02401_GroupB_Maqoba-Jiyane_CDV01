@@ -72,7 +72,7 @@ By completing this reflection, you will gain a clearer understanding of your car
         2. Backend Developer
         3. Full-Stack Developer
     - Note any particular areas that piqued your interest.
-        Full-Stack Development. This profession requires someone to be skilled in all respects of software development, from design ,to code, to security.
+        > Full-Stack Development. This profession requires someone to be skilled in all respects of software development, from design ,to code, to security.
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
